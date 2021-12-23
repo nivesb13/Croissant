@@ -7,5 +7,18 @@ p {
     text-align: center;
 }
 body {
-    background-color: rgb(121, 116, 111);
+    background-color: rgb(247, 215, 183);
+}
+
+footer {
+    text-align: center;
+}
+
+footer a {
+    color: rgb(201, 46, 71);
+}
+
+.croissant-photo {
+    max-width: 100%;
+    display: block;
 }
